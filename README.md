@@ -2,8 +2,6 @@
 
 AI-powered account research for sales teams. Enter a company URL, get deep research in minutes.
 
-**Live at [auggie.tools](https://auggie.tools)**
-
 ## What It Does
 
 1. **Scrapes company websites** (Firecrawl) — homepage, about, careers, blog, job boards, investor relations
